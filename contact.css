@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.backimagessone{
+    background-image: url(image/Rectangle\ 107\ \(1\).png);
+    width: 100%;
+    height: 285px;
+}
+.backimagesstwo{
+    background-image: url(image/Rectangle\ 110\ \(1\).png);
+    width: 100%;
+    height: 525px;
+}
+.contact{
+    text-align: center;
+}
+.margintop{
+    margin-top: 115.5px;
+}
+.margintopone{
+    position: relative;
+    top: 115.5px;
+
+}
+.float{
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;
+   
+}
+.bordercontact{
+    border: 1px solid rgb(182, 175, 175);
+}
+.send{
+    width: 20%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.contactflex{
+    display: flex;
+}
+.phones{
+    margin-left: 10px;
+}
+.addess{
+    margin-left: 10px;
+}
+.biginput{
+    height: 220px;
+    border: none;
+    border: 1px solid rgb(187, 182, 182);
+}
+.yournameinput{
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid rgb(187, 182, 182);
+    
+}
+.buttonborder{
+    border: none;
+}
+.floatone{
+    margin-top: 280px;
+}
+.display{
+    display: flex;
+    
+    
+}
+.marginleft{
+    margin-left: 100px;
+}
+
+
+@media screen and (max-width:500px){
+    
+    
+    .backimagessone{
+        background-image: url(image/Rectangle\ 107\ \(1\).png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        height: auto;
+    }
+    .margintop{
+        margin-top: 15.5px;
+        font-size: small;
+    }
+    .margintopone{
+        position: relative;
+        top: 15.5px;
+        font-size: smaller;
+    }
+    .backimagesstwo{
+        background-image: url(image/Rectangle\ 110\ \(1\).png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 150px;
+    }
+    .float{
+        float: right;
+        margin-right: 7.5px;
+        margin-top: 7.5px;
+       
+    }
+    .floatone{
+        margin-top: 54px;
+        margin-left: 60px;
+    }
+    .imgsize{
+        width: 100%;
+        height: 25px;
+        
+    }
+    .contactflex{
+        display: flex;
+    }
+    .send{
+        width: 20%;
+        height: 40px;
+        background-color: black;
+        color: white;
+        border: none;
+        margin-bottom: 20px;
+    }
+    .floattwo{
+        margin-left: 60px;
+    }
+    .imgsizeone{
+        width: 100%;
+        height: 44px;
+    }
+    .marginbottom{
+        margin-bottom: 25px;
+    }
+
+}

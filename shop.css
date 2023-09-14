@@ -1,0 +1,331 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.linesone{
+    width: 378px;
+    height: 1px;
+    background-color: white;
+}
+.backimg{
+    background-image: url(image/Rectangle\ 28\ \(1\).png);
+    width: 141%;
+    height: 277px;
+    background-repeat: no-repeat;
+}
+.third{
+    text-align: center;
+}
+.linestwo{
+    width: 141%;
+    height: 1px;
+    background-color: #8F8282;
+}
+.shopcate{
+    margin-top: 1px;
+    
+}
+.pageright{
+    margin-left: auto;
+}
+.spanright{
+    margin-right: 5px;
+    position: relative;
+    top: 3px;
+}
+.numbersflex{
+    display: flex;
+}
+.page{
+    width: 141%;
+}
+.lefticon{
+    margin-right: 10px;
+}
+
+.travelbag{
+    position: relative;
+    top: 90px;
+    margin-left: 550px;
+}
+.bg{
+    background-color: #424242;
+    width: 31%;
+}
+.linesthree{
+    width: 410px;
+    height: 2px;
+    background-color: black;
+    position: relative;
+    bottom: 6px;
+    
+}
+.shoptop{
+    margin-top: 5px;
+}
+.roundblack{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 10px;
+    
+    
+}
+.widthdiv{
+    width: 415px;
+}
+.groupimg{
+    width: 40px;
+    height: 40px;
+    object-fit: contain;
+    margin-right: 10px;
+}
+.widthlone{
+    margin-right: 340px;
+}
+.widthltwo{
+    margin-right: 335px;
+}
+.widthlthree{
+    margin-right: 326px;
+}
+.groupimgtwo{
+    width: 25px;
+    height: 25px;
+    object-fit: contain;
+    margin-right: 10px;
+}
+.roundblacks{
+    width: 15px;
+    height: 15px;
+    margin-top:11px;
+    margin-left: 10px;
+}
+.widthleight{
+    margin-right: 294px;
+}
+.accessories{
+    width: 40%;
+    height: 40px;
+    color: #847F7F;
+    background-color: white;
+    border-radius: 10px;
+}
+.accessoriesone{
+    width: 55%;
+    height: 40px;
+    color: #847F7F;
+    background-color: white;
+    border-radius: 10px;
+}
+.groupright{
+    margin-right: 160px;
+}
+.dollarflex{
+    display: flex;
+}
+.dakine{
+    margin-right: 258px;
+}
+.safarione{
+    margin-right: 250px;
+}
+.jansport{
+    margin-right: 240px;
+}
+.swissgera{
+    margin-right: 232px;
+}
+.safari{
+    margin-right: 266px;
+}
+.venture{
+    margin-right: 215px;
+}
+.dollarsix{
+    margin-left: 55px;
+}
+.threebagsmall{
+    margin-left: 61px;
+}
+.bagsmallone{
+    margin-right: 201px;
+}
+
+.sixtyone{
+    margin-top: -3px;
+}
+.priceflex{
+    display: flex;
+}
+.dollar{
+    width: 20px;
+    height: 20px;
+}
+.duffel{
+    width: 30%;
+    height: 40px;
+    color: #847F7F;
+    background-color: white;
+    border-radius: 10px;
+}
+.homeshopd{
+    display: flex;
+}
+.roundsflex{
+    display: flex;
+}
+.widthlseven{
+    margin-right: 299px;
+}
+.widthlsix{
+    margin-right: 307px;
+}
+.widthlfour{
+    margin-right: 320px;
+}
+.filterflex{
+    display: flex;
+    margin-left: auto;
+}
+.widthlfive{
+    margin-right: 318px;
+}
+.boxflex{
+    display: flex;
+}
+.widthround{
+    width: 97%;
+}
+.roundblackone{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+    border-radius: 10px;
+    
+}
+
+@media screen and (max-width:500px){
+    .header,main,footer{
+        overflow: hidden;
+    }
+    .homeshopd{
+        display: flex;
+    }
+    .backpacks{
+        display: flex!important;
+    }
+    .bg{
+        background-color: #424242;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .travelbag{
+        position: relative;
+        top: 40px;
+        margin-left: 213px;
+    }
+    .safarifont{
+        font-size: 10px;
+    }
+    .travelfont{
+        font-size: 10px;
+    }
+    .linesone{
+        width: 357px;
+        height: 1px;
+        background-color: white;
+    }
+    .pageright{
+        margin-left: auto;
+    }
+    .dollarsix{
+        margin-left: 38px;
+    }
+    .linestwo{
+        width: 100%;
+        height: 1px;
+        background-color: #8F8282;
+    }
+    .lefticon{
+        margin-right: 5px;
+        width: 40px;
+        height: 40px;
+    }
+    .widthlthree{
+        margin-right: 304px;
+    }
+    .defaultflex{
+        display: flex!important;
+    }
+    .widthltwo{
+        margin-right: 313px;
+    }
+    .linesthree{
+        width: 95%;
+        height: 2px;
+        background-color: black;
+        position: relative;
+        bottom: 6px;
+        
+    }
+    .gapbottom{
+        margin-bottom: 50px;
+    }
+    .threebagsmall{
+        margin-left: 43px;
+    }
+    .boxflex{
+        display: flex;
+        
+    }
+    .widthlone{
+        margin-right: 317px;
+    }
+    .widthlsix{
+        margin-right: 282px;
+    }
+    .numbersflex{
+        display: flex;
+    }
+    .roundsflex{
+        display: flex;
+    }
+    .filterflex{
+        display: flex;
+        margin-left: 195px;
+    }
+    .priceflex{
+        display: flex;
+    }
+    .widthlfour{
+        margin-right: 295px;
+    }
+    .widthlfive{
+        margin-right: 293px;
+    }
+    .widthleight{
+        margin-right: 267px;
+    }
+    .dollarflex{
+        display: flex;
+    }
+    
+    .backimg{
+        background-image: url(image/Rectangle\ 28\ \(1\).png);
+    width: 100%;
+    height: 113px;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: 100%;
+    }
+    .page{
+        width: 100%;
+        display: flex!important;
+        justify-content: none !important;
+    }
+    .widthlseven{
+        margin-right: 272px;
+    }
+    
+}

@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.backimagessone{
+    background-image: url(image/Rectangle\ 107\ \(1\).png);
+    width: 100%;
+    height: 285px;
+}
+.about{
+    text-align: center;
+}
+.margintop{
+    margin-top: 115.5px;
+}
+.margintopone{
+    position: relative;
+    top: 115.5px;
+
+}
+.suitbottom{
+    margin-bottom: 50px;
+}
+.shop{
+    background-color: #A8741A;
+    border: none;
+    width: 150px;
+    height: 50px;
+    color: white;
+}
+.bottom{
+    margin-bottom: 25px;
+    margin-top: 5px;
+}
+.bottomone{
+    margin-bottom: 25px;
+}
+.float{
+    float: right;
+    margin-right: 15px;
+    margin-top: 15px;
+   
+}
+.floatone{
+    margin-top: 280px;
+}
+.left{
+    margin-left: 25px;
+}
+.bottomless{
+    margin-bottom: 50px;
+}
+.bottomlessone{
+    margin-bottom: 50px;
+}
+.numbers{
+    text-align: center;
+}
+.project{
+    text-align: center;
+}
+.suit{
+    text-align: center;
+}
+.team{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.down{
+    margin-bottom: 10px;
+}
+.suitone{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.downsone{
+    margin-bottom: 50px;
+}
+.textgold{
+    color: #A8741A;
+}
+.aboutflex{
+    display: flex;
+}
+.OurTeamflex{
+    margin-bottom: 20px;
+}
+@media screen and (max-width:500px){
+    
+    
+    .backimagessone{
+        background-image: url(image/Rectangle\ 107\ \(1\).png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        height: auto;
+    }
+    .margintop{
+        margin-top: 15.5px;
+        font-size: small;
+    }
+    .margintopone{
+        position: relative;
+        top: 15.5px;
+        font-size: smaller;
+    }
+    .display{
+         display: block !important;
+    }
+    
+    .imageb{
+        margin-bottom: 20px;
+    }
+    .left{
+        margin-left: 0px;
+    }
+    .bottom{
+        margin-bottom: 12.5px;
+        margin-top: 2.5px;
+    }
+    .bottomone{
+        margin-bottom: 12.5px;
+    }
+    .bottomless{
+        margin-bottom: 25px;
+    }
+    .bottomlessone{
+        margin-bottom: 25px;
+    }
+    .suitbottom{
+        display: block !important;
+        margin-bottom: 25px;
+    }
+    .downsone{
+        margin-bottom: 50px;
+        display: block!important;
+    }
+    .margins{
+        margin-bottom: 25px;
+    }
+    .foots{
+        display: block !important;
+    }
+    .rectangle{
+        width: 100%;
+    }
+    
+    
+    
+}

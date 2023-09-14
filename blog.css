@@ -1,0 +1,331 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.backimgfour{
+    background-image: url(image/Rectangle\ 108\ \(1\).png);
+    width: 100%;
+    height: 285px;
+}
+.linesfive{
+    width: 100%;
+    height: 1px;
+    background-color: #e5e5e5;
+    margin-bottom: 25px;
+    
+}
+.linessix{
+    width: 100%;
+    height: 1px;
+    background-color: #888080;
+   
+}
+.heightcard{
+    height: 228px;
+}
+
+.margintopone{
+    position: relative;
+    top: 115.5px;
+
+}
+.bags{
+    width: 65px;
+    height: 30px;
+    border: none;
+    border: 1px solid #e5e5e5;
+    background-color: white;
+}
+.schools{
+    width: 80px;
+    height: 30px;
+    border: none;
+    border: 1px solid #e5e5e5;
+    background-color: white;
+    
+}
+.travelss{
+    width: 65px;
+    height: 30px;
+    border: none;
+    border: 1px solid #e5e5e5;
+    background-color: white;
+}
+.offices{
+    width: 80px;
+    height: 30px;
+    border: none;
+    border: 1px solid #e5e5e5;
+    background-color: white;
+}
+.buttonbottom{
+    margin-bottom: 10px;
+}
+.colleges{
+    width: 80px;
+    height: 30px;
+    border: none;
+    border: 1px solid #e5e5e5;
+    background-color: white;
+}
+.margintop{
+    margin-top: 115.5px;
+    display: flex;
+}
+.displayflexblog{
+    display: flex;
+}
+.handt{
+    text-align: center;
+}
+.glass{
+    max-width: 95%;
+}
+.gridview{
+    text-align: center;
+}
+.search{
+    
+    margin-bottom: 20px;
+}
+.mabottom{
+   margin-bottom: 50px;
+}
+.trans{
+  display: flex;
+  border: 1px solid #e5e5e5;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.sea{
+    border: none;
+    padding-left: 10px;
+    
+}
+.college{
+   text-align: center;
+   margin-bottom: 0px;
+   margin-top: 5px;
+}
+.handbag{
+    text-align: center;
+   margin-bottom: 0px;
+   margin-top: 5px;
+}
+.august{
+    text-align: center;
+}
+.travelbag{
+    text-align: center;
+   margin-bottom: 0px;
+   margin-top: 5px;
+}
+.octoberten{
+    text-align: center;
+}
+.octoberthirteen{
+    text-align: center;
+}
+.botsttom{
+    margin-bottom: 25px;
+}
+.commentsbot{
+    margin-bottom: 25px;
+}
+.officebag{
+    text-align: center;
+   margin-bottom: 0px;
+   margin-top: 5px;
+}
+.boxbottomone{
+    margin-bottom: 50px;
+    display: flex;
+}
+.boxbottom{
+    margin-bottom: 25px;
+    display: flex;
+}
+.lightmove{
+    margin-left: 20px;
+}
+.tightmove{
+    margin-left: 20px;
+}
+.octoberfifteen{
+    text-align: center;
+}
+.schoolbag{
+    text-align: center;
+   margin-bottom: 0px;
+   margin-top: 5px;
+}
+
+
+.octoberfive{
+    text-align: center;
+}
+.recent{
+    margin-bottom: 20px;
+}
+.october{
+    margin-bottom: 50px;
+}
+.archives{
+    margin-bottom: 20px;
+}
+.basilbutton{
+    background-color: white;
+    border: none;
+    margin-left: 132px;
+}
+.basil{
+    width: 100%;
+    
+}
+.circlewidth{
+    width: 100px;
+    height: 100%;
+}
+.circleellip{
+    width: 100%;
+    height: 100%;
+}
+.widthsone{
+    width: 100px;
+    height: 100%;
+}
+.snehasays{
+    /* text-align: center; */
+   margin-bottom: 0px;
+   margin-top: 15px;
+}
+.tags{
+    margin-bottom: 25px;
+}
+.circletwo{
+    margin-bottom: 50px;
+    display: flex;
+}
+.circleone{
+    margin-bottom: 25px;
+    display: flex;
+}
+.naren{
+    margin-bottom: 0px;
+   margin-top: 15px;
+}
+.katherin{
+    margin-bottom: 0px;
+   margin-top: 15px;
+}
+.naveensays{
+    margin-bottom: 0px;
+    margin-top: 15px; 
+}
+.availables{
+    width: 163px;
+}
+.imgtwos{
+    width: 100%;
+    height: 100%;
+}
+.widthstwo{
+    width: 100px;
+    height: 100%;
+}
+.imgones{
+    width: 100%;
+    height: 100%;
+}
+.widthsthree{
+    width: 100px;
+    height: 100%;
+}
+.imgthrees{
+    width: 100%;
+    height: 100%;
+}
+.widthsfours{
+    width: 100px;
+    height: 100%;
+}
+.imgfours{
+    width: 100%;
+    height: 100%;
+}
+.widthsfives{
+    width: 100px;
+    height: 100%;
+}
+.imgfives{
+    width: 100%;
+    height: 100%;
+}
+@media screen and (max-width:500px){
+    .backimgfour{
+        background-image: url(image/Rectangle\ 108\ \(1\).png);
+        width: 100%;
+        height: 83px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    .margintopone{
+        position: relative;
+        top: 20.5px;
+        
+    
+    }
+    .gridviewone{
+        font-size: 15px;
+    }
+    .margintop{
+        margin-top: 20.5px;
+       
+    }
+    .displayflexblog{
+        display: flex;
+    }
+    .basilbutton{
+        background-color: white;
+        border: none;
+        margin-left: 150px;
+    }
+    .widthstwo{
+        width: 100px;
+        height: 100%;
+       
+    }
+    .marginsset{
+        margin-bottom: 20px;
+    }
+    .collegeflex{
+        display: flex;
+    }
+    .widthsone{
+        width: 100px;
+        height: 100%;
+
+        
+        
+    }
+    .widthsthree{
+        width: 100px;
+        height: 100%;
+        
+    }
+    .widthsfours{
+        width: 100px;
+        height: 100%;
+        
+    }
+    .widthsfives{
+        width: 100px;
+        height: 100%;
+        
+    }
+    .commentscenter{
+        text-align: center;
+    }
+    
+
+}

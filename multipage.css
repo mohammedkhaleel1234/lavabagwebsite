@@ -1,0 +1,378 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-item{
+    margin-left: 150px;
+}
+.img{
+    width: 100%;
+    height: 30px;
+    object-fit: cover;
+    margin-top: 5px;
+}
+.imgone{
+    width: 100%;
+    height: 30px;
+    object-fit: cover;
+    margin-top: 5px;
+}
+.imgtwo{
+    width: 100%;
+    height: 30px;
+    object-fit: cover;
+    margin-top: 5px;
+}
+.list{
+    margin-left: 115px;
+}
+.listone{
+margin-left: 10px;
+}
+.listtwo{
+margin-left: 10px;
+}
+.back{
+    margin-top: 85px;
+}
+
+.backgroundimg{
+    background-image: url(image/Rectangle\ 2\ \(7\).png);
+    width: 100%;
+    height: 600px;
+}
+
+.text{
+    font-family: 'Outfit', sans-serif;
+}
+.para{
+    font-family: 'Poppins', sans-serif;
+}
+.paraone{
+    font-family: 'Outfit', sans-serif;
+
+}
+.button{
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: black;
+    border: none;
+    color: white;
+}
+.subone{
+    position: relative;
+    top: 164px;
+    margin-left: 10px;
+}
+.subtwo{
+    margin-top: 180px;
+    margin-left: 10px;
+}
+.subthree{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.subfour{
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.line{
+    width: 2px;
+    background-color: black;
+    height: 50px;
+    
+    
+}
+.lineone{
+    width: 2px;
+    background-color: black;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.textone{
+    text-align: center;
+}
+.texttwo{
+    text-align: center;
+}
+.textthree{
+   text-align: center;
+}
+.subfive{
+    margin-left: 50px;
+}
+.subsix{
+    margin-left: 50px;
+}
+.backgroundimgone{
+    background-image: url(image/Rectangle\ 7\ \(1\).png);
+    width: 100%;
+    height: 298px;
+    background-repeat: no-repeat;
+}
+.backgroundimgtwo{
+    background-image: url(image/Rectangle\ 5\ \(1\).png);
+    width: 100%;
+    height: 297px;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+.flexuppen{
+    display: flex;
+}
+.backgroundimgthree{
+    background-image: url(image/Rectangle\ 6.png);
+    width: 100%;
+    height: 298px;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+.travel{
+    
+    margin-top: 70px;
+    margin-right: 208px;
+    
+}
+.right{
+    margin-right: 100px;
+}
+.top{
+    
+    position: relative;
+    left: 12px;
+    
+}
+
+.numberright{
+    margin-right: 20px;
+}
+.width{
+    width: 33%;
+}
+.groupwidth{
+    width: 20%;
+    height: 20px;
+    margin-top: 15px;
+    object-fit: contain;
+}
+
+.school{
+    
+    margin-top: 70px;
+    margin-left: 200px;
+}
+.laptop{
+    
+    margin-top: 70px;
+    margin-right: 280px;
+}
+.collection{
+    text-align: center;
+}
+.fashion{
+    text-align: center;
+}
+.luxury{
+    text-align: center;
+}
+.number{
+    width: 55px;
+    background-color: black;
+    height: 2px;
+    
+   position: relative;
+   top: 14px;
+   right: 27px;
+   
+}
+.free{
+    text-align: center;
+}
+.days{
+    text-align: center;
+}
+.payment{
+    text-align: center;
+}
+.supports{
+    text-align: center;
+}
+.lines{
+    width: 130px;
+    height: 2px;
+    background-color: black;
+}
+.solar{
+    margin-top: 45px;
+}
+.round{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+    border-radius: 100px;
+    
+
+}
+
+.topone{
+    margin-top: 55px;
+}
+.backpack{
+     /* font-size: 40px;
+     font-weight: bolder;
+     word-wrap: break-word;
+     width: 0px;
+     text-transform: uppercase; */
+     color: #e2dbdb;
+
+     
+}
+
+.stylish{
+    text-align: center;
+}
+
+.left{
+    margin-left: 106px;
+}
+.leftone{
+    margin-left: 76px;
+}
+.lefttwo{
+    margin-left: 109px;
+}
+.leftthree{
+    margin-left: 103px;
+}
+
+
+@media screen and (max-width:500px){
+    .header,main,footer{
+        overflow: hidden;
+    }
+    .nav-item{
+        margin-left: 0px;
+    }
+    .img{
+        width: 10%;
+        height: auto;
+        
+        margin-top: 0px;
+    }
+    .imgone{
+        width: 10%;
+        height: auto;
+        object-fit: cover;
+        margin-top: 5px;
+    }
+    .imgtwo{
+        width: 10%;
+        height: auto;
+        object-fit: cover;
+        margin-top: 0px;
+    }
+    .list{
+        margin-left: 0px;
+    }
+    .listone{
+        margin-left: 0px;
+        }
+        .listtwo{
+        margin-left: 0px;
+        }
+    .textcolor{
+        color: black;
+    }
+    .leftone{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .backgroundimg{
+        background-image: url(image/Rectangle\ 2\ \(7\).png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 600px;
+    }
+    .subone{
+        position: relative;
+        top: 15px;
+        margin-left: 10px;
+    }
+    .subtwo{
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+    .roundgapsb{
+        margin-bottom: 15px;
+    }
+    .widthsbag{
+        width: 100%;
+    }
+    .widthsbagone{
+        width: 33%;
+    }
+    .d-flex{
+        display: block!important;
+    }
+    .lefttwo{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .leftthree{
+        text-align: center;
+        margin-left: 0px;
+    }
+    .left{
+        margin-left: 0px;
+        text-align: center;
+    }
+    .subthree{
+        margin-top: 15px;
+        margin-left: 10px;
+    }
+    .right{
+        margin-right: 60px;
+    }
+    .subfour{
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    .paraone{
+        font-family: 'Outfit', sans-serif;
+        font-size: small;
+    
+    }
+    .text{
+        font-family: 'Outfit', sans-serif;
+        font-size: medium;
+    }
+    .para{
+        font-family: 'Poppins', sans-serif;
+        font-size: small;
+    }
+    .button{
+        width: 100px;
+        height: 25px;
+        border-radius: 12.5px;
+        background-color: black;
+        border: none;
+        color: white;
+        font-size: small;
+
+    }
+    .backgroundimg{
+        background-image: url(image/Rectangle\ 2\ \(7\).png);
+        width: 100%;
+        height: 180px;
+    }
+    .marsbott{
+        margin-bottom: 10px;
+    }
+    .flexuppen{
+        display: flex;
+    }
+}
